@@ -1,0 +1,10 @@
+0;Mircea;21
+5;Ana;21
+6;Vlad;44
+2;Dan;23
+3;Fane;24
+7;Mirciulica;22
+1;Dani;45
+4;PJfXkbkFWQjmlbsGd;854
+8;ZEcqIwxWugPskIElIuuAkFTZg;630
+9;Kl;56
